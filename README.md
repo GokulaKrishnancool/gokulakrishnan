@@ -1,4 +1,4 @@
-# gokulakrishnan
+# Gokula Krishnan
 # pip install keras
 # pip install tensorflow
 # pip install skimage
